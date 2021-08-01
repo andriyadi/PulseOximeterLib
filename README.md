@@ -13,9 +13,12 @@ and [Part 2](https://www.youtube.com/watch?v=nVOnsb0WBkc)
 ## How to use
 Soon, I'll publish more complete sample project to use this library.
 
+For now, you could refer to [example_basic.ino](https://github.com/andriyadi/PulseOximeterLib/blob/main/examples/example_basic/example_basic.ino) to get the idea of how easy it is to use.
+
 ## Credit
-This project is not possible with these awesome projects and reference:
+This project is not possible without references and and the inspiration from these awesome projects:
 * [@tobiasisenberg](https://github.com/tobiasisenberg)'s [OxiVis](https://github.com/tobiasisenberg/OxiVis)
+* [Oximeters-BLE-Hack-ESP32](https://github.com/SensorsIot/Oximeters-BLE-Hack-ESP32)
 * [berrymedBluetoothOxymeter](https://github.com/ScheindorfHyenetics/berrymedBluetoothOxymeter)
 * [BCI Protocol](https://github.com/zh2x/BCI_Protocol/blob/master/BCI%20Protocol%20V1.2.pdf)
 
