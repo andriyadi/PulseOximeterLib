@@ -1,0 +1,18 @@
+{
+  "name": "PulseOximeterLib",
+  "version": "0.1.0",
+  "frameworks": "arduino",
+  "platforms": "espressif32",
+  "keywords": "oximeter,PulseOximeter,ble,bluetooth,espectro32",
+  "description": "Library to work with Pulse Oximeter, for now only via Bluetooth",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/andriyadi/PulseOximeterLib.git"
+  },
+  "authors": [
+    {
+      "name": "Andri Yadi",
+      "email": "an.dri@me.com"
+    }
+  ]
+}
